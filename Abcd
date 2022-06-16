@@ -1,0 +1,19 @@
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/
+
+alias jps=/usr/lib/jvm/java-B-openjdk-and64/bin/jps
+
+export HADOOP HOME=/opt/hadoop-2.10.0/
+
+export PATH=$PATH: SHADDOP HOME/bin
+
+export PATH=$PATH: SHADOOP HOME/bin export PATH=$PATH: SHADOOP HOME/sbin
+
+export HADOOP MAPRED HOME-SHADOOP HOME export HADOOP COMMON HOME SHADOOP HOME
+
+export HADOOP HDFS HOME-SHADOOP HOME export YARN HOME SHADOOP HOME
+
+export HADOOP COMMON LIB NATIVE DIR SHADOOP HOME/lib/native
+
+export HADOOP OPTS="-Djava.library.path=SHADOOP HOME/lib/native
+
+export HADDOP CLASSPATH=$(JAVA HOME}/lib/tools.jar
